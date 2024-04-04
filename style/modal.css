@@ -15,9 +15,9 @@
   margin: auto;
   background-color: #fff;
   color: #282828;
-  padding: 74px 116px 188px;
+  padding: 74px 50px 100px;
   border-radius: 25px;
-  max-width: 1000px;
+  max-width: 850px;
 }
 
 .modal__title {
